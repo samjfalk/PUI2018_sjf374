@@ -1,3 +1,14 @@
+# Author: Sam Falk, NYU, September 2018
+##############################
+# for HW3 of PUI2018
+##############################
+# run the code as the following
+#      python show_bus_locations_sjf374.py <MTA_KEY> <BUS_LINE>
+###########
+
+
+
+
 import sys
 import json
 try:

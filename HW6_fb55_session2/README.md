@@ -1,4 +1,4 @@
-# PUI2018 HW 5 session 1 (mornings).
+# PUI2018 HW 6 session 2 (evening)
 
 ## ASSIGNED READING:
 
@@ -21,13 +21,13 @@ For Assignment 1: work alone.
 For Assignment 2: work in groups of 2. Strictly no more than 3!
 
 For the rest of the HW you can work in groups of up to 5 as usual, and you are encouraged to. 
-Create a HW5\_\<nyuID\> directory in your PUI2018\_\<nyuID\> repository. 
+Create a HW6\_\<nyuID\> directory in your PUI2018\_\<nyuID\> repository. 
 Include a README.md that briefly summarizes the scope of the homework (so we know you understand what you did), 
 and states with whome you worked and what you specifically contributed to. 
 
 Submit __Assignment 1__ as a pull request markdown file to be added to your classmate repository (see below), 
 
-Submit __Assignment 2__ by including your 3 tables (see below) in the README for the directory  into your PUI2018_\<netID\>/HW5_\<netID\> repository. 
+Submit __Assignment 2__ by including your 3 tables (see below) in the README for the directory  into your PUI2018_\<netID\>/HW6_\<netID\> repository. 
 
 Submit __Assignment 3__ and __Assignment 4__ as separate notebooks as usual. 
 
@@ -98,16 +98,16 @@ ANCOVA	| 1, Ranks of values | ordinal | 1, did Self Affirmation or no| categoric
 
 ### GRADING: 
 
-Your HW5\_\<netID\> README.md should show, in addition to the usual items (the scope of the homework, the group partecipants, your role in the group work) a two-row tables like the one above explaining the use of two tests in papers published in PLOS One.
+Your HW6\_\<netID\> README.md should show, in addition to the usual items (the scope of the homework, the group partecipants, your role in the group work) a two-row tables like the one above explaining the use of two tests in papers published in PLOS One.
 
 ## Assignment 3: Reproduce the analysis of the Hard to Employ program in NY:
 
 Reproduce the analysis of the Hard to Employ programs for NY. You may want to read the relevant portion of the study to make sure you are not just workign mechanically (Chapter 2 of the [original document](http://www.mdrc.org/sites/default/files/What%20Strategies%20Work%20for%20the%20Hard%20FR.pdf)).
 
 
-Reproduce the results in cell 2 of Table 2.1 (_Ever employed in a CEO transitional job_), and cell 10 (_Convicted of a felony_). Fill in the cells of the scheleton [notebook](https://github.com/fedhere/PUI2018_fb55/blob/master/HW5_fb55_session1/effectivenes%20of%20NYC%20Post-Prison%20Employment%20Programs.ipynb) as you are asked to.
+Reproduce the results in cell 2 of Table 2.1 (_Ever employed in a CEO transitional job_), and cell 10 (_Convicted of a felony_). Fill in the cells of the scheleton [notebook](https://github.com/fedhere/PUI2018_fb55/blob/master/HW6_fb55_session2/effectivenes%20of%20NYC%20Post-Prison%20Employment%20Programs.ipynb) as you are asked to.
 
-Turn in your version of the python notebook in the HW5_\<netID\> directory
+Turn in your version of the python notebook in the HW6_\<netID\> directory
 
 
 ### Grading 
@@ -127,7 +127,7 @@ Use the following are 3 tests to assess correlation between 2 samples of citibik
 - Spearman’s test 
 - K-S test
 
-There is a skeleton notebook that works on a similar question, age of male vs female riders. Follow it to see how to set up the assignment [notebook citibikes_compare_distributions.ipynb](https://github.com/fedhere/PUI2018_fb55/blob/master/HW5_fb55_session1/citibikes_compare_distributions.ipynb). 
+There is a skeleton notebook that works on a similar question, age of male vs female riders. Follow it to see how to set up the assignment [notebook citibikes_compare_distributions.ipynb](https://github.com/fedhere/PUI2018_fb55/blob/master/HW6_fb55_session2/citibikes_compare_distributions.ipynb). 
 
 
 Use: trip duration of bikers that ride during the day vs night. State your result in words in terms of the Null Hypothesis

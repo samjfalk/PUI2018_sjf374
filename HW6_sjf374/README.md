@@ -10,9 +10,21 @@ b. verify that the data supports the project: i.e. if the a data has the appropr
 
 c. chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or here, or Statistics in a Nutshell.
 
+Then pushed to a forked repository and created a pull request for @saraaita to complete on Tuesday night (10/16/2018).
+
+As of writing this, no one has submitted a pull request for my repo. 
+
 Assignment 2:
 
 Worked with Mei Guan @MeiGuan and Ross MacWhinney @RossMacW
+
+
+
+
+| **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
+|:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
+Logistic Regression	| 3; HbA1c measurement, Age, fractional disease duration | Continuous | 1, the achievement of satisfactory glycaemic control | categorical | 0 | N/A | Which patient characteristics are predictive of satisfactory glycaemic control? | AUC???? | N/A | [Prediction of glycaemic control in young children and adolescents with type 1 diabetes mellitus using mixed-effects logistic regression modelling](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182181) |
+  |||||||||
 
 Assignment 3: 
 

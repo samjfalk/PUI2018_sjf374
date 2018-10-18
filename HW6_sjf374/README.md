@@ -1,5 +1,5 @@
 # Homework 6 
-# Sam Falk
+Sam Falk
 
 ## Assignment 1:
 
@@ -69,7 +69,7 @@ Recidivism NULL HYPOTHESIS: the % of former prisoners is convicted of a felony 1
 
 Utilized the Z test function provided in the skeleton notebook and created my own chi square function for use of testing. 
 
-Assignment 4:
+## Assignment 4:
 
 Worked with Mei Guan @MeiGuan and Ross MacWhinney @RossMacW
 

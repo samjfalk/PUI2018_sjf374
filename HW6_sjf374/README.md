@@ -28,7 +28,7 @@ The paper  _[How accurate are runners’ prospective predictions of their race t
 |:-------------------------:|:------------|:----------------|:------------|:-----------------|:-----------------|:--------------------- |:----------------------------|:--------:|:---------:|:-----------------|
 |ANOVA	| 3, running club membership, gender, age | categorical | 1, interaction with prediction times| categorical | 1, experience measured via running club membership | categorical | How accurate are runner's prospective predictions of their finish running times?| Inexperienced runners predict as accurately as experienced runners. | 0.05 | [How accurate are runners’ prospective predictions of their race times?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0200744) |
 
-<img src="https://github.com/samjfalk/PUI2018_sjf374/blob/master/HW6_sjf374/ANOVA.png" width="200">
+<img src="https://github.com/samjfalk/PUI2018_sjf374/blob/master/HW6_sjf374/ANOVA.png" width="500">
 
 ## Multiple Regression
 
@@ -39,7 +39,7 @@ The paper _[The Relationship between National-Level Carbon Dioxide Emissions and
 |Multiple Regression| 14, Population, Population 1965, Population 1970, Population 1975, Population 1980, Population 1985, Population 1990, Population 1995, Population 2000, Population 2005, GDP per capita, GDP per capita squared, Urban Population as Percent of Total Population, Trade as Percent of Total Gross Domestic Product| ratio | 1, Total Carbon Dioxide Emissions| ratio| 4, GDP per capita, GDP per capita squared, Urban Population as Percent of Total Population, Trade as Percent of Total Gross Domestic Product| ratio| What is the Relationship between National-Level Carbon Dioxide Emissions and Population Size| There is no relationship between the Population Size and the National-Level Carbon Dioxied Emissions. $H_0 : \beta_1 = 0$ | see Table 3 for beta coefficients and R squared in each of the 5 models | [The Relationship between National-Level Carbon Dioxide Emissions and Population Size: An Assessment of Regional and Temporal Variation, 1960–2005](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0057107) |
 
 
-<img src="https://github.com/samjfalk/PUI2018_sjf374/blob/master/HW6_sjf374/multiple_regression.png" width="200">
+<img src="https://github.com/samjfalk/PUI2018_sjf374/blob/master/HW6_sjf374/multiple_regression.png" width="500">
 
 
 ## Logistic Regression
@@ -51,7 +51,7 @@ The paper _[Prediction of glycaemic control in young children and adolescents wi
 Logistic Regression	| 3; HbA1c measurement, Age, fractional disease duration | Continuous | 1, the achievement of satisfactory glycaemic control | categorical | 0 | N/A | Which patient characteristics are predictive of satisfactory glycaemic control? | There is not a relationship between the independent variables and the achievement of satisfactory glycaemic control | N/A | [Prediction of glycaemic control in young children and adolescents with type 1 diabetes mellitus using mixed-effects logistic regression modelling](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182181) |
   |||||||||
 
-<img src="https://github.com/samjfalk/PUI2018_sjf374/blob/master/HW6_sjf374/Log_reg.PNG" width="200">
+<img src="https://github.com/samjfalk/PUI2018_sjf374/blob/master/HW6_sjf374/Log_reg.PNG" width="500">
 
 
 

@@ -1,5 +1,5 @@
-Homework 6 
-Sam Falk
+# Homework 6 
+# Sam Falk
 
 ## Assignment 1:
 

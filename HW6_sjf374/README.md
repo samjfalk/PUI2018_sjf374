@@ -19,12 +19,13 @@ Assignment 2:
 Worked with Mei Guan @MeiGuan and Ross MacWhinney @RossMacW
 
 
-
-
 | **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
-Logistic Regression	| 3; HbA1c measurement, Age, fractional disease duration | Continuous | 1, the achievement of satisfactory glycaemic control | categorical | 0 | N/A | Which patient characteristics are predictive of satisfactory glycaemic control? | AUC???? | N/A | [Prediction of glycaemic control in young children and adolescents with type 1 diabetes mellitus using mixed-effects logistic regression modelling](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182181) |
+Logistic Regression	| 3; HbA1c measurement, Age, fractional disease duration | Continuous | 1, the achievement of satisfactory glycaemic control | categorical | 0 | N/A | Which patient characteristics are predictive of satisfactory glycaemic control? | There is not a relationship between the independent variables and the achievement of satisfactory glycaemic control | N/A | [Prediction of glycaemic control in young children and adolescents with type 1 diabetes mellitus using mixed-effects logistic regression modelling](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182181) |
   |||||||||
+
+![alt tag](https://github.com/samjfalk/PUI2018_sjf374/blob/master/HW6_sjf374/log_reg.png) 
+
 
 Assignment 3: 
 

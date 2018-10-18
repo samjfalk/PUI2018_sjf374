@@ -73,4 +73,5 @@ Utilized the Z test function provided in the skeleton notebook and created my ow
 
 Worked with Mei Guan @MeiGuan and Ross MacWhinney @RossMacW
 
+We read the directions together and went over each step over google hangout. We had many discussions over the Spearman's and Pearson's tests about the proper way manipulate the data frames for evaluation. 
 

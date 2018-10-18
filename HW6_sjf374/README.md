@@ -13,7 +13,7 @@ Reviewed another classmate's @saraaita Citybike data, by following this prompt:
 
 Then pushed to a forked repository and created a pull request for @saraaita to complete on Tuesday night (10/16/2018).
 
-<img src="https://github.com/samjfalk/PUI2018_sjf374/blob/master/HW6_sjf374/Pics/PullRequest_pic" width="500">
+<img src="https://github.com/samjfalk/PUI2018_sjf374/blob/master/HW6_sjf374/Pics/PullRequest_pic.png" width="500">
 
 As of writing this (Wednesday at 9 pm), no one has submitted a pull request for my repo. 
 

@@ -4,8 +4,11 @@ I evaluated dogs per 100 people for my visualization. This was aggregated on Nei
 
 It is likely that every person does not license their dog, so the outcomes of the analysis may be biased. 
 
+![graph](https://github.com/samjfalk/PUI2018_sjf374/blob/master/HW8_sjf374/Graph.png)
 
+I ensured my colors were applicable to color blind people as well. 
 
+![colorcheck](https://github.com/samjfalk/PUI2018_sjf374/blob/master/HW8_sjf374/ColorBlind.png)
 
 
 ### Assignment 2

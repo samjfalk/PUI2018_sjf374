@@ -6,7 +6,9 @@ Worked worked with Mei Guan and QY GOH. We all really struggled through this one
 
 #### Assignment 2
 
-My feedback was very positive from Zoe. She mainly suggested I add more description to my plot. This can be seen below. 
+My feedback was very positive from Zoe. She mainly suggested I add more description to my plot. This can be seen below.
+
+The graph shows the highlighted areas where the people to dog ratio is the highest. We can see that many parts of brooklyn and manhattan have a higher ratio than other areas. This data could be biased as it is only for people who register their dogs legally. There may be many dogs that are not registered.  
 
 ![graph](https://github.com/samjfalk/PUI2018_sjf374/blob/master/HW8_sjf374/Graph.png)
 
